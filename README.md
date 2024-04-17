@@ -45,7 +45,6 @@ I take pride in leveraging the latest technologies to create powerful, scalable,
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://camo.githubusercontent.com/240d5b7ebc329154223e7e23a67d2f4909d9ad52dea78941d2b93d6b4a3ea038/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6177732d322e737667" alt="AWS" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://camo.githubusercontent.com/34973a840a6c97cd5f424e3e8529bc695dac712d014b6d10d95f40afea415607/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d617232312e737667" alt="Figma" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 
 
 
