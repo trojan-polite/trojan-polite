@@ -14,8 +14,6 @@ I take pride in leveraging the latest technologies to create powerful, scalable,
 
 - 💬 Ask me about **Full Stack(FE, BE) and AI Project**
 
-- 📫 Reach me at **trojan.polite@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
