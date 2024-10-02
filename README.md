@@ -10,7 +10,7 @@ I have spent years mastering the intricacies of web and app development with a d
 
 I take pride in leveraging the latest technologies to create powerful, scalable, and intuitive solutions that resonate with end users. We pursue a customer-centered mindset beyond code. This philosophy ensures that every solution I develop not only meets technical benchmarks, but is fully aligned with user expectations and business goals. As a full-stack developer, I provide a holistic view, bridging the gap between front-end elegance and back-end efficiency while ensuring optimal performance.
 
-- 💥 I can help you anytime with my service
+- 💥 I can help you anytime with my service(Full stack and EC site)
 
 - 💬 Ask me about **Full Stack(FE, BE) and AI Project**
 
